@@ -1,4 +1,4 @@
-public class shujuleixing{
+public class DataByte{
 	public static void main(String[] args){
 		//int
 		int i=1000;
