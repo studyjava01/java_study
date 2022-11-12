@@ -50,8 +50,8 @@ public class LogicalOperator{
 	System.out.println("a++>100 && b++>100 :"+(a++>100 && b++>100));
 	System.out.println("a="+a); //11
 	System.out.println("b="+b); /*
-									b=20 这是因为左边a++>100已经为false，
-									所以在&&中，右边的b++>100不会运行
-								*/
+					b=20 这是因为左边a++>100已经为false，
+					所以在&&中，右边的b++>100不会运行
+				    */
 	}
 }
